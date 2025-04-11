@@ -6,3 +6,4 @@
 # Inspiration board
 Due to the inmaturity of the motif research, these articles just give inspirations.
 1. [Smith, J. E. (2020). A neuromorphic paradigm for online unsupervised clustering. arXiv preprint arXiv:2005.04170.](https://arxiv.org/abs/2005.04170)
+2. [Thiebaut de Schotten, M., & Forkel, S. J. (2022). The emergent properties of the connected brain. Science, 378(6619), 505-510.](https://www.science.org/doi/abs/10.1126/science.abq2591)
